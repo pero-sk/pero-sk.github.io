@@ -51,8 +51,8 @@ const tags = ['open source', 'lang design', 'tooling', 'python', 'java']
 
 .avatar-wrap { position: relative; flex-shrink: 0; margin-top: 8px; }
 .avatar {
-  width: 72px;
-  height: 72px;
+  width: 73px;
+  height: 73px;
   border-radius: 50%;
   object-fit: cover;
   box-shadow: 0 4px 24px rgba(212, 132, 90, 0.25);
@@ -61,7 +61,7 @@ const tags = ['open source', 'lang design', 'tooling', 'python', 'java']
   position: absolute;
   width: 80px;
   height: 80px;
-  inset: -3.5px;
+  inset: -3.25px;
   border-radius: 50%;
   border: 1.5px dashed rgba(212, 132, 90, 0.4);
   animation: spin 18s linear infinite;
