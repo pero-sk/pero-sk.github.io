@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    name: 'rain',
+    desc: 'A simplistic programming language built in Python. Prototype for now — a Rust version may or may not happen.',
+    lang: 'Python',
+    langColor: '#4fa8d5',
+    stars: 1,
+    icon: null,
+    url: 'https://github.com/pero-sk/rain',
+  },
+  {
+    name: 'definedlib',
+    desc: "Package for testing rain's in-beta package manager. The ecosystem starts somewhere.",
+    lang: 'Rain',
+    langColor: '#aa12ba',
+    stars: null,
+    icon: null,
+    url: 'https://github.com/pero-sk/definedlib-package',
+  },
+  {
+    name: 'Create: Smithery',
+    desc: "Revamps the default minecraft smelting system for a Create-centered one.",
+    lang: 'Java',
+    langColor: '#f89820',
+    stars: null,
+    icon: null,
+    url: 'https://github.com/pero-sk/Roblox-game-to-discord-activity',
+  },
+  {
+    name: 'serpentine',
+    desc: 'Lightweight config library mod for fast, clean configuration in any mod that needs it.',
+    lang: 'Java',
+    langColor: '#f89820',
+    stars: null,
+    icon: null,
+    url: 'https://github.com/pero-sk/serpentine',
+  },
+]
