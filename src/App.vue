@@ -44,6 +44,7 @@ onMounted(() => setTimeout(() => shown.value = true, 80))
   --cream: #0e0e0e;
   --warm: #161616;
   --ink: #f0ebe4;
+  --darkness: #c6c6c6;
   --muted: #888080;
   --accent: #e8956d;
   --accent2: #8ecfbc;

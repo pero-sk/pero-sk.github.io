@@ -1,6 +1,6 @@
 <template>
   <button class="theme-toggle" @click="$emit('toggle')" :aria-label="dark ? 'Switch to light mode' : 'Switch to dark mode'">
-    <span class="icon">{{ dark ? '☀️' : '🌙' }}</span>
+    <span class="icon">{{ dark ? '/' : '()' }}</span>
   </button>
 </template>
 

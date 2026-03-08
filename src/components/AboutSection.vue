@@ -79,7 +79,7 @@ h1 {
 .bio {
   font-size: 15px;
   line-height: 1.75;
-  color: #5a4a3e;
+  color: #3d2e22;
   max-width: 460px;
   margin-bottom: 20px;
   justify-content: center;

@@ -11,7 +11,7 @@
     <h3>{{ project.name }}</h3>
     <p>{{ project.desc }}</p>
     <div class="card-footer">
-      <span v-if="project.stars" class="stars">✦ {{ project.stars }}</span>
+      <span class="stars">✦ {{ project.stars }}</span>
       <a :href="project.url" target="_blank" class="card-link">view →</a>
     </div>
   </div>

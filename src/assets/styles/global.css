@@ -6,6 +6,7 @@
   --cream: #fdf8f2;
   --warm: #f5ede0;
   --ink: #2d2118;
+  --darkness: #1a1006;
   --muted: #8c7b6e;
   --accent: #d4845a;
   --accent2: #7fb5a0;
@@ -14,9 +15,13 @@
 
 html { background: #111; }
 
+.dark .bio {
+  color: #c9b8a8;
+}
+
 body {
   background: transparent;
-  color: var(--ink);
+  color: var(--darkness);
   font-family: 'DM Sans', sans-serif;
   min-height: 100vh;
 }
@@ -61,3 +66,7 @@ footer a { color: var(--accent); text-decoration: none; }
 /* Hide default scrollbar */
 ::-webkit-scrollbar { display: none; }
 * { scrollbar-width: none; }
+
+.dark p {
+  color: #c9b8a8;
+}
