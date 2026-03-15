@@ -9,13 +9,13 @@ export const projects = [
     url: 'https://github.com/pero-sk/rain',
   },
   {
-    name: 'definedlib',
-    desc: "Package for testing rain's in-beta package manager. The ecosystem starts somewhere.",
-    lang: 'Rain',
-    langColor: '#aa12ba',
+    name: 'cigale',
+    desc: "A statically-typed, interpreted programming language built in Rust.",
+    lang: 'Rust',
+    langColor: '#f64d00',
     stars: 0,
     icon: null,
-    url: 'https://github.com/pero-sk/definedlib-package',
+    url: 'https://github.com/pero-sk/cigale/tree/0.2.0',
   },
   {
     name: 'Create: Smithery',
