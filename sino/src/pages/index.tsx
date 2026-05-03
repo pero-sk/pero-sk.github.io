@@ -41,7 +41,7 @@ export default function Home(): ReactNode {
 let name = "Sino"
 
 "Welcome to: {name}!"
-|> Str:template({name})
+|> Str:template({name=name})
 |> print()`;
 
   const [copied, setCopied] = useState(false);
