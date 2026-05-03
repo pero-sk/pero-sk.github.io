@@ -1,0 +1,23 @@
+{
+  "id": "Getting Started/First Program",
+  "title": "Your First Program",
+  "description": "Hello, world!",
+  "source": "@site/docs/Getting Started/First Program.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/First Program",
+  "permalink": "/sino/docs/Getting Started/First Program",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/sino/docs/Getting Started/Installation"
+  },
+  "next": {
+    "title": "Syntax Basics",
+    "permalink": "/sino/docs/Getting Started/Syntax Basics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "stdlib/console",
+  "title": "sino.console",
+  "description": "Console utilities.",
+  "source": "@site/docs/stdlib/console.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/console",
+  "permalink": "/sino/docs/stdlib/console",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.array",
+    "permalink": "/sino/docs/stdlib/array"
+  },
+  "next": {
+    "title": "sino.file",
+    "permalink": "/sino/docs/stdlib/file"
+  }
+}

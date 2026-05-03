@@ -1,0 +1,23 @@
+{
+  "id": "Standard Library/raw",
+  "title": "sino.raw",
+  "description": "A way of accessing non-sino structured objects, made easy.",
+  "source": "@site/docs/Standard Library/raw.md",
+  "sourceDirName": "Standard Library",
+  "slug": "/Standard Library/raw",
+  "permalink": "/sino/docs/Standard Library/raw",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.iterable",
+    "permalink": "/sino/docs/Standard Library/iterable"
+  },
+  "next": {
+    "title": "sino.tson",
+    "permalink": "/sino/docs/Standard Library/tson"
+  }
+}

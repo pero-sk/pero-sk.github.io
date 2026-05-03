@@ -1,0 +1,23 @@
+{
+  "id": "stdlib/raw",
+  "title": "sino.raw",
+  "description": "A way of accessing non-sino structured objects, made easy.",
+  "source": "@site/docs/stdlib/raw.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/raw",
+  "permalink": "/sino/docs/stdlib/raw",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.math",
+    "permalink": "/sino/docs/stdlib/maths"
+  },
+  "next": {
+    "title": "sino.string",
+    "permalink": "/sino/docs/stdlib/string"
+  }
+}

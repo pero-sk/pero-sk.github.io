@@ -1,0 +1,23 @@
+{
+  "id": "stdlib/string",
+  "title": "sino.string",
+  "description": "String utilities.",
+  "source": "@site/docs/stdlib/string.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/string",
+  "permalink": "/sino/docs/stdlib/string",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.raw",
+    "permalink": "/sino/docs/stdlib/raw"
+  },
+  "next": {
+    "title": "sino.tson",
+    "permalink": "/sino/docs/stdlib/tson"
+  }
+}

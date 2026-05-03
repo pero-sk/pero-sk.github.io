@@ -1,0 +1,23 @@
+{
+  "id": "Standard Library/array",
+  "title": "sino.array",
+  "description": "Array utilities for working with lists.",
+  "source": "@site/docs/Standard Library/array.md",
+  "sourceDirName": "Standard Library",
+  "slug": "/Standard Library/array",
+  "permalink": "/sino/docs/Standard Library/array",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Examples",
+    "permalink": "/sino/docs/Getting Started/Examples"
+  },
+  "next": {
+    "title": "sino.console",
+    "permalink": "/sino/docs/Standard Library/console"
+  }
+}

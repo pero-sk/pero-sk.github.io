@@ -1,0 +1,23 @@
+{
+  "id": "stdlib/file",
+  "title": "sino.file",
+  "description": "File utilities for reading, writing, and checking files.",
+  "source": "@site/docs/stdlib/file.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/file",
+  "permalink": "/sino/docs/stdlib/file",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.console",
+    "permalink": "/sino/docs/stdlib/console"
+  },
+  "next": {
+    "title": "sino.iterable",
+    "permalink": "/sino/docs/stdlib/iterable"
+  }
+}

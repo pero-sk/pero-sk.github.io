@@ -1,0 +1,23 @@
+{
+  "id": "Getting Started/Examples",
+  "title": "Examples",
+  "description": "This page shows real examples of Sino in action.",
+  "source": "@site/docs/Getting Started/Examples.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/Examples",
+  "permalink": "/sino/docs/Getting Started/Examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Syntax Basics",
+    "permalink": "/sino/docs/Getting Started/Syntax Basics"
+  },
+  "next": {
+    "title": "sino.array",
+    "permalink": "/sino/docs/Standard Library/array"
+  }
+}

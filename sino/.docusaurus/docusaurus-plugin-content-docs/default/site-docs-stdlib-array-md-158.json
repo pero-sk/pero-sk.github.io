@@ -1,0 +1,19 @@
+{
+  "id": "stdlib/array",
+  "title": "sino.array",
+  "description": "Array utilities for working with lists.",
+  "source": "@site/docs/stdlib/array.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/array",
+  "permalink": "/sino/docs/stdlib/array",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "sino.console",
+    "permalink": "/sino/docs/stdlib/console"
+  }
+}

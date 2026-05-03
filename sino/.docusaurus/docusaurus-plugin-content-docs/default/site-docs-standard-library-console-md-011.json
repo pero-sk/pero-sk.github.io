@@ -1,0 +1,23 @@
+{
+  "id": "Standard Library/console",
+  "title": "sino.console",
+  "description": "Console utilities.",
+  "source": "@site/docs/Standard Library/console.md",
+  "sourceDirName": "Standard Library",
+  "slug": "/Standard Library/console",
+  "permalink": "/sino/docs/Standard Library/console",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.array",
+    "permalink": "/sino/docs/Standard Library/array"
+  },
+  "next": {
+    "title": "sino.math",
+    "permalink": "/sino/docs/Standard Library/maths"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "stdlib/maths",
+  "title": "sino.math",
+  "description": "Mathematical utilities and constants.",
+  "source": "@site/docs/stdlib/maths.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/maths",
+  "permalink": "/sino/docs/stdlib/maths",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.iterable",
+    "permalink": "/sino/docs/stdlib/iterable"
+  },
+  "next": {
+    "title": "sino.raw",
+    "permalink": "/sino/docs/stdlib/raw"
+  }
+}

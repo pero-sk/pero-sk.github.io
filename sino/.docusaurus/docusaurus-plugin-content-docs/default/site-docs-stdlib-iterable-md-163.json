@@ -1,0 +1,23 @@
+{
+  "id": "stdlib/iterable",
+  "title": "sino.iterable",
+  "description": "Utilities for working with iterable values, ranges, and key-value entries.",
+  "source": "@site/docs/stdlib/iterable.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/iterable",
+  "permalink": "/sino/docs/stdlib/iterable",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.file",
+    "permalink": "/sino/docs/stdlib/file"
+  },
+  "next": {
+    "title": "sino.math",
+    "permalink": "/sino/docs/stdlib/maths"
+  }
+}

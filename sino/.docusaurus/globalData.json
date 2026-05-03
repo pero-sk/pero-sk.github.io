@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/sino/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/sino/docs",
+          "mainDocId": "Sino",
+          "docs": [
+            {
+              "id": "Getting Started/Examples",
+              "path": "/sino/docs/Getting Started/Examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/First Program",
+              "path": "/sino/docs/Getting Started/First Program",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/Installation",
+              "path": "/sino/docs/Getting Started/Installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/Syntax Basics",
+              "path": "/sino/docs/Getting Started/Syntax Basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sino",
+              "path": "/sino/docs/Sino",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/array",
+              "path": "/sino/docs/Standard Library/array",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/console",
+              "path": "/sino/docs/Standard Library/console",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/file",
+              "path": "/sino/docs/Standard Library/file",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/iterable",
+              "path": "/sino/docs/Standard Library/iterable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/maths",
+              "path": "/sino/docs/Standard Library/maths",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/raw",
+              "path": "/sino/docs/Standard Library/raw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/string",
+              "path": "/sino/docs/Standard Library/string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/tson",
+              "path": "/sino/docs/Standard Library/tson",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Standard Library/types",
+              "path": "/sino/docs/Standard Library/types",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/sino/docs/Sino",
+                "label": "Sino"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

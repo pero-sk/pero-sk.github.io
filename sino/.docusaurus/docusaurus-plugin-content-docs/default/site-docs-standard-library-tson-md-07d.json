@@ -1,0 +1,23 @@
+{
+  "id": "Standard Library/tson",
+  "title": "sino.tson",
+  "description": "Utilities for working with Table to JSON data.",
+  "source": "@site/docs/Standard Library/tson.md",
+  "sourceDirName": "Standard Library",
+  "slug": "/Standard Library/tson",
+  "permalink": "/sino/docs/Standard Library/tson",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.raw",
+    "permalink": "/sino/docs/Standard Library/raw"
+  },
+  "next": {
+    "title": "sino.types",
+    "permalink": "/sino/docs/Standard Library/types"
+  }
+}

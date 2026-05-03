@@ -1,0 +1,19 @@
+{
+  "id": "sino",
+  "title": "sino",
+  "description": "",
+  "source": "@site/docs/sino.md",
+  "sourceDirName": ".",
+  "slug": "/sino",
+  "permalink": "/sino/docs/sino",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.types",
+    "permalink": "/sino/docs/Standard Library/types"
+  }
+}

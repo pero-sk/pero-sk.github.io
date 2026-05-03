@@ -1,0 +1,23 @@
+{
+  "id": "Standard Library/types",
+  "title": "sino.types",
+  "description": "Utilities for type checking, conversion, and runtime inspection.",
+  "source": "@site/docs/Standard Library/types.md",
+  "sourceDirName": "Standard Library",
+  "slug": "/Standard Library/types",
+  "permalink": "/sino/docs/Standard Library/types",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.tson",
+    "permalink": "/sino/docs/Standard Library/tson"
+  },
+  "next": {
+    "title": "sino.file",
+    "permalink": "/sino/docs/Standard Library/file"
+  }
+}

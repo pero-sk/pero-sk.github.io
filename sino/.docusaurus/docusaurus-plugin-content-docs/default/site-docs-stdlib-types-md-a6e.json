@@ -1,0 +1,19 @@
+{
+  "id": "stdlib/types",
+  "title": "sino.types",
+  "description": "Utilities for type checking, conversion, and runtime inspection.",
+  "source": "@site/docs/stdlib/types.md",
+  "sourceDirName": "stdlib",
+  "slug": "/stdlib/types",
+  "permalink": "/sino/docs/stdlib/types",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.tson",
+    "permalink": "/sino/docs/stdlib/tson"
+  }
+}

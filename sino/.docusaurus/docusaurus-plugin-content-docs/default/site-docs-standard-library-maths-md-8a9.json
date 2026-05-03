@@ -1,0 +1,23 @@
+{
+  "id": "Standard Library/maths",
+  "title": "sino.math",
+  "description": "Mathematical utilities and constants.",
+  "source": "@site/docs/Standard Library/maths.md",
+  "sourceDirName": "Standard Library",
+  "slug": "/Standard Library/maths",
+  "permalink": "/sino/docs/Standard Library/maths",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.console",
+    "permalink": "/sino/docs/Standard Library/console"
+  },
+  "next": {
+    "title": "sino.string",
+    "permalink": "/sino/docs/Standard Library/string"
+  }
+}

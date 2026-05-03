@@ -1,0 +1,19 @@
+{
+  "id": "Getting Started/First-Program",
+  "title": "First-Program",
+  "description": "",
+  "source": "@site/docs/Getting Started/First-Program.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/First-Program",
+  "permalink": "/sino/docs/Getting Started/First-Program",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/sino/docs/Getting Started/installation"
+  }
+}

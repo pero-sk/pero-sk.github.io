@@ -1,0 +1,19 @@
+{
+  "id": "Sino",
+  "title": "Sino",
+  "description": "Sino is a modern superset of Lua that compiles to plain Lua.",
+  "source": "@site/docs/Sino.md",
+  "sourceDirName": ".",
+  "slug": "/Sino",
+  "permalink": "/sino/docs/Sino",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/sino/docs/Getting Started/Installation"
+  }
+}

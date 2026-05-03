@@ -1,0 +1,23 @@
+{
+  "id": "Getting Started/Syntax Basics",
+  "title": "Syntax Basics",
+  "description": "This page covers the core syntax you need to understand the examples in Sino.",
+  "source": "@site/docs/Getting Started/Syntax Basics.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/Syntax Basics",
+  "permalink": "/sino/docs/Getting Started/Syntax Basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Your First Program",
+    "permalink": "/sino/docs/Getting Started/First Program"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/sino/docs/Getting Started/Examples"
+  }
+}

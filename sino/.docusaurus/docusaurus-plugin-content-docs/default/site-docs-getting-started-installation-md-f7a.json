@@ -1,0 +1,23 @@
+{
+  "id": "Getting Started/installation",
+  "title": "Installation",
+  "description": "Windows",
+  "source": "@site/docs/Getting Started/installation.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/installation",
+  "permalink": "/sino/docs/Getting Started/installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "First Program",
+    "permalink": "/sino/docs/Getting Started/First Program"
+  },
+  "next": {
+    "title": "sino.array",
+    "permalink": "/sino/docs/Standard Library/array"
+  }
+}

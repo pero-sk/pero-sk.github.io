@@ -1,0 +1,23 @@
+{
+  "id": "Standard Library/iterable",
+  "title": "sino.iterable",
+  "description": "Utilities for working with iterable values, ranges, and key-value entries.",
+  "source": "@site/docs/Standard Library/iterable.md",
+  "sourceDirName": "Standard Library",
+  "slug": "/Standard Library/iterable",
+  "permalink": "/sino/docs/Standard Library/iterable",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sino.string",
+    "permalink": "/sino/docs/Standard Library/string"
+  },
+  "next": {
+    "title": "sino.raw",
+    "permalink": "/sino/docs/Standard Library/raw"
+  }
+}
