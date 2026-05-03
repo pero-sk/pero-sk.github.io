@@ -3,7 +3,7 @@ export const projects = [
     name: 'rain',
     desc: 'A simplistic programming language built in Python. Prototype for now — a Rust version may or may not happen.',
     lang: 'Python',
-    langColor: '#4fa8d5',
+    langColor: '#367595',
     stars: 1,
     icon: null,
     url: 'https://github.com/pero-sk/rain',
