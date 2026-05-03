@@ -30,7 +30,6 @@ defineProps({
 .card {
   background: var(--card-bg);
   backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.7);
   border-radius: 16px;
   padding: 22px 24px;
   transition: transform 0.25s, box-shadow 0.25s;
@@ -57,7 +56,6 @@ defineProps({
 }
 
 h3 {
-  font-family: 'Lora', serif;
   font-size: 17px;
   font-weight: 600;
   margin-bottom: 8px;

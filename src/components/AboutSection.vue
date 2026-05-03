@@ -19,10 +19,8 @@
       <div class="chips">
         <span v-for="t in tags" :key="t" class="chip">{{ t }}</span>
       </div>
-      <div class="links" >
-        <a href="https://github.com/pero-sk" target="_blank" class="btn">GitHub</a>
-      </div>
     </div>
+    <hr>
   </section>
 </template>
 
@@ -40,15 +38,20 @@ const tags = ['open source', 'lang design', 'tooling', 'python', 'java']
 <style scoped>
 .about {
   display: flex;
-  gap: 40px;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
   margin-bottom: 80px;
   opacity: 0;
   transform: translateY(24px);
   transition: opacity 0.7s ease, transform 0.7s ease;
 }
 .about.visible { opacity: 1; transform: none; }
-
+.about-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .avatar-wrap { position: relative; flex-shrink: 0; margin-top: 8px; }
 .avatar {
   width: 73px;
@@ -68,7 +71,6 @@ const tags = ['open source', 'lang design', 'tooling', 'python', 'java']
 }
 
 h1 {
-  font-family: 'Lora', serif;
   font-size: clamp(36px, 6vw, 52px);
   font-weight: 600;
   line-height: 1.1;
@@ -86,7 +88,6 @@ h1 {
   text-align: center;
 }
 .bio em {
-  font-family: 'Lora', serif;
   font-style: italic;
   color: var(--accent);
 }

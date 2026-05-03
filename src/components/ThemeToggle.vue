@@ -1,6 +1,6 @@
 <template>
   <button class="theme-toggle" @click="$emit('toggle')" :aria-label="dark ? 'Switch to light mode' : 'Switch to dark mode'">
-    <span class="icon">{{ dark ? '/' : '()' }}</span>
+    <span class="icon">{{ dark ? '[dark]' : '[light]' }}</span>
   </button>
 </template>
 
@@ -15,8 +15,9 @@ defineEmits(['toggle'])
   top: 20px;
   right: 24px;
   z-index: 100;
-  width: 40px;
-  height: 40px;
+  color: black;
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   border: 1px solid rgba(140, 123, 110, 0.2);
   background: var(--card-bg);

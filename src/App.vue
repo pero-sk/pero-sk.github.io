@@ -10,7 +10,8 @@
     <main>
       <AboutSection :shown="shown" />
       <ProjectsSection :shown="shown" />
-      <footer>pero-sk · <a href="https://github.com/pero-sk" target="_blank">@pero-sk</a></footer>
+      <footer>pero-sk · <a href="https://github.com/pero-sk" target="_blank">@pero-sk</a><br>
+      pero_sk · <a href="https://modrinth.com/user/pero_sk" target="_blank">/pero_sk</a></footer>
     </main>
   </div>
 </template>

@@ -1,6 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap');
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  background: #111; /* stays dark always */
+}
 
 :root {
   --cream: #fdf8f2;
@@ -21,8 +26,7 @@ html { background: #111; }
 
 body {
   background: transparent;
-  color: var(--darkness);
-  font-family: 'DM Sans', sans-serif;
+  color: color-mix(in srgb, var(--darkness) 80%, transparent);
   min-height: 100vh;
 }
 
@@ -44,6 +48,7 @@ body {
   font-size: 12px;
   letter-spacing: 2px;
   color: var(--muted);
+  text-align: center;
   text-transform: uppercase;
   margin-bottom: 6px;
 }
@@ -69,4 +74,50 @@ footer a { color: var(--accent); text-decoration: none; }
 
 .dark p {
   color: #c9b8a8;
+}
+
+.dark .theme-toggle {
+  color:white;
+}
+
+.bio em {
+  font-family: 'Lobster two';
+}
+
+h1 {
+  font-family: 'Lobster two';
+}
+
+h3 {
+  font-family: 'Lobster two';
+}
+
+h2 {
+  font-family: 'Lobster two';
+}
+
+body {
+  font-family: 'Oswald';
+}
+
+.ti1 {
+  font-family: 'Oswald';
+}
+
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.7);
+}
+.dark .card {
+  border: 1px solid rgba(255, 255, 255, 0.7)
+}
+
+hr {
+  border: none;
+  border-top: 2px solid rgba(155, 123, 90, 0.45);
+  margin: 40px 0;
+  width: 100%;
+}
+
+footer {
+  padding-bottom: -100px;
 }

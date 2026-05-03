@@ -1,6 +1,6 @@
 <template>
   <section class="projects" :class="{ visible: shown }">
-    <h2>things i've made</h2>
+    <div class="ti1">things i've made</div>
     <div class="project-grid">
       <ProjectCard
         v-for="(project, i) in projects"
@@ -32,9 +32,8 @@ defineProps({
 }
 .projects.visible { opacity: 1; transform: none; }
 
-h2 {
-  font-family: 'Lora', serif;
-  font-size: 22px;
+.ti1 {
+  font-size: 50px;
   font-weight: 600;
   margin-bottom: 28px;
 }

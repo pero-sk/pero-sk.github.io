@@ -14,8 +14,6 @@
   "homepage": "https://pero-sk.github.io/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "build": "vite build"
   }
 }
